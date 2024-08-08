@@ -8,7 +8,7 @@ html {
 
 header {
   padding: 15px;
-  background-color: #2727a0;
+  background-color: #051e48;
 }
 
 header p {
@@ -20,11 +20,11 @@ header p {
 
 .bottomHeader {
   padding: 150px;
-  background-color: lightcoral;
+  background-color: #051e48;
 }
 
 .bottomHeader p {
-  color: #161616;
+  color: white;
   font-size: 4rem;
   font-family: sans-serif;
   text-align: center;
@@ -33,7 +33,7 @@ header p {
 
 .DivContainer {
   padding: 150px;
-  background-color: lightcyan;
+  background-color: white;
 }
 
 .DivContainer p {
